@@ -1,3 +1,8 @@
+""""
+TheMoviePredicator Script
+
+Author : Rodolphe VIDAL
+ """
 import mysql.connector
 import sys
 import argparse
